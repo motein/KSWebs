@@ -1,0 +1,22 @@
+#FirstOne
+{
+	font-size: 30px;
+	background: #FFFFFF;
+	font-family: "Gungsuh"
+}
+
+table, tr, td
+{
+	/*border: 1px solid red;*/
+	width: 50%;
+	text-align: center;
+}
+hr
+{
+	color:red	
+}
+
+body
+{
+	background-color: white
+}

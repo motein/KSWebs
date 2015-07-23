@@ -1,0 +1,133 @@
+#divBannerWords
+{
+	font-family:"Script MT Bold";
+	font-size: 40px;
+	font-weight: bold;
+	width: 800px;
+	height: 100px;
+	margin-top: 100px;
+	margin-right: auto; 
+	margin-left: auto;
+	border:dashed;
+	text-align: center;
+	line-height:100px;
+	vertical-align: middle;
+	background-image: url("../images/bannerBg.jpg")
+}
+
+#divBody
+{
+	width: 800px;
+	height: 700px;
+	border:dashed;
+	margin-right: auto; 
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: auto;
+}
+
+.div1stOneLine
+{
+	width: 760px;
+	height: 30px;
+	text-align: left;
+	border:groove 2px;
+	border-color: black;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	border-radius:6px 15px 6px 6px;
+}
+
+.divNot1stOneLine
+{
+	width: 760px;
+	height: 30px;
+	text-align: left;
+	border:groove 2px;
+	border-color: black;
+	float: left;
+	margin-left: 20px;
+	margin-top: 5px;
+	border-radius:6px 15px 6px 6px;
+	background-color:transparent;
+}
+
+.imageOneLine
+{
+	height: 30px;
+	width: 30px;
+}
+
+#divEnd
+{
+	
+	width: 800px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 0px;
+	margin-right: auto; 
+	margin-left: auto;
+	border:dashed;
+	background-image: url("../images/bannerBg.jpg")
+}
+
+#divForward
+{
+	width: 250px;
+	height: 50px;
+	text-align: center;
+	border:groove 0px;
+	float: right;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 5px;
+	border-radius:15px;
+}
+
+#divHome
+{
+	width: 300px;
+	height: 50px;
+	text-align: center;
+	border: groove 0px;
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 5px;
+	border-radius: 15px;
+}
+
+#divBack
+{
+	width: 250px;
+	height: 50px;
+	text-align: center;
+	border: groove 0px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 5px;
+	border-radius:15px;
+}
+
+.arrowImage
+{
+	height: 48px;
+	width: 48px;
+}
+
+.homeImage
+{
+	height: 43px;
+	width: 43px;
+}
+
+a
+{
+	font-family:"Times New Roman","微软雅黑";
+	font-size: 18px;
+	font-style: oblique;
+	font-weight: bold;
+	line-height:30px;
+	vertical-align: top;
+}
