@@ -1,2 +1,2 @@
 # KnowledgeSharingWebsite
-This is used to build up a website for sharing knowledge.
+This is targeted to build up a website for knowledge sharing. The development IDE is Aptana Studio.
